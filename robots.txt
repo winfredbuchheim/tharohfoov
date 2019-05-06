@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eethewiig.ossperks.com/sitemap.xml
